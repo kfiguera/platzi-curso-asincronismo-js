@@ -1,0 +1,24 @@
+{
+  "name": "platzi-curso-asincronismo",
+  "version": "1.0.0",
+  "description": "Repositorio del Curso de Asincronismo con JavaScript de Platzi",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfiguera/platzi-curso-asincronismo-js.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Kevin Figuera <kfiguera@smartwebtools.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kfiguera/platzi-curso-asincronismo-js/issues"
+  },
+  "homepage": "https://github.com/kfiguera/platzi-curso-asincronismo-js#readme"
+}
