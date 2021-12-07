@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kfiguera/platzi-curso-asincronismo-js/issues"
   },
-  "homepage": "https://github.com/kfiguera/platzi-curso-asincronismo-js#readme"
+  "homepage": "https://github.com/kfiguera/platzi-curso-asincronismo-js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
